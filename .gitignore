@@ -1,0 +1,10 @@
+*.tsv
+*.csv
+*.py
+.DS_Store
+.vscode/settings.json
+app/.gradle/*
+app/.vscode/*
+app/build/*
+app/gradle/*
+app/bin/*
